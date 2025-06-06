@@ -16,6 +16,13 @@ This project is an advanced implementation of the classic Snake Game using **Rei
 
 * The agent was trained for 200 episodes, and a sample gameplay video is attached below to demonstrate the results. 🎮
   https://github.com/user-attachments/assets/b952315d-bac3-45f0-a2cc-30d36feb3213
+  ![image](https://github.com/user-attachments/assets/71bc8fab-a3d3-422a-b55d-89daa80a600a)
+  Trained for about 200 episodes long with score
+  
+  ![image](https://github.com/user-attachments/assets/37075163-164b-407e-b7d4-852be40fdf27)
+  Screenshot of snake eating apple!
+
+
   
 
 ### 👥 Contributors
