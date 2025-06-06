@@ -20,6 +20,7 @@ This project is an advanced implementation of the classic Snake Game using **Rei
   Trained for about 200 episodes long with score
   
   ![image](https://github.com/user-attachments/assets/37075163-164b-407e-b7d4-852be40fdf27)
+  
   Screenshot of snake eating apple!
 
 
