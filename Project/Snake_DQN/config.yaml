@@ -1,0 +1,38 @@
+# Reinforcement Learning Hyperparameters
+training:
+  total_episodes: 100000           
+  count_per_episode: 200000     
+  minbatch_size: 100               
+  learning_rate: 0.001
+  replay_buffer_size: 10000       
+  UI: True
+  agent_learn: False
+  batch_size: 1000
+  folder_name: data
+  file_name: train.ptl
+  epilon_file: epsilon.txt
+  score_card: score.txt
+  step_size: 4
+
+epsilon:
+  start: 1.0                        
+  end: 0.001                        
+  decay: 0.99                    
+
+learning:
+  rate: 0.01                        
+  gamma: 0.95                      
+  tau: 0.01   
+  interpolation_parameter: 0.01                    
+
+network:
+  state_size: 16                   
+  action_size: 4                  
+  neural_layer: 64
+
+snake_world:
+  screen_size: 600
+  block_width: 20
+  max_food_size: 29
+  block_size: 20
+  speed: 20
